@@ -1,11 +1,12 @@
 {
   "basics": {
     "name": "Kunal Kulkarni",
-    "label": "Data Science | Electronics",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
+    "_label": "Data Science | Electronics",
+    "picture": "/images/profile1.jpg",
     "email": "kulkarni.kunal17@gmail.com",
     "website": "https://kunalkul.github.io",
-    "summary": "I am an Electronics Engineer, who is currently on a Data Science journey",
+    "summary": "A passion for solving problems with the help of technology 
+    drives me, along with constant curiosity to learn about the world we live in",
     "profiles": [
       {
         "network": "linkedin",
@@ -31,19 +32,19 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Internet of Things",
       "keywords": [
         "Arduino",
         "ESP32"
       ]
     },
     {
-      "name": "data science",
+      "name": "Data Science",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Artificial Intelligence",
       "keywords": [
       ]
     }
@@ -75,7 +76,7 @@
     {
       "institution": "National Institute of Technology, Karnataka, India",
       "area": "Electronics and Communications Engineering",
-      "studyType": "B. Tech.",
+      "studyType": "B. Tech."
     }
-  ],
+  ]
 }
